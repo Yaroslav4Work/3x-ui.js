@@ -8,3 +8,5 @@ tsconfig.json
 node_modules/
 package-lock.json
 .env
+example.inbound.json
+example.client.json
