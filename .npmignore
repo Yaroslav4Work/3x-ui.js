@@ -1,0 +1,10 @@
+src/
+.prettierrc
+.gitignore
+eslint.config.mjs
+jest.config.js
+tsconfig.json
+.idea/
+node_modules/
+package-lock.json
+.env
